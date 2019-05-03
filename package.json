@@ -1,0 +1,32 @@
+{
+  "name": "tmdb-tv",
+  "version": "1.0.0",
+  "description": "Sample TheMovieDb client tv application.",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Daniel Sanchez <jdaniel.saed@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github/cube5/tmdb-tv-client"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "apollo-boost": "^0.3.1",
+    "graphql": "^14.2.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "^8.1.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.5",
+    "react-dom": "^16.8.6",
+    "rebass": "^3.1.0",
+    "styled-components": "^4.2.0"
+  }
+}
